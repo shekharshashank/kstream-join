@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "javaType": "kafka.examples.types.WordCount",
+  "properties": {
+    "Word": {
+      "type": "string"
+    },
+    "Count": {
+      "javaType": "java.lang.Long"
+    }
+  }
+}
